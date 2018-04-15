@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=20] -->
+    <string name="app_name">Budapest Tour Guide</string>
+
+    <!-- Category name for the sights [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+</resources>
