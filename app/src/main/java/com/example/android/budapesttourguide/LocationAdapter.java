@@ -20,8 +20,8 @@ public class LocationAdapter extends ArrayAdapter<Location> {
      * The context is used to inflate the layout file, and the list is the data we want
      * to populate into the lists.
      *
-     * @param context The current context. Used to inflate the layout file.
-     * @param locations   A List of Location objects to display in a list
+     * @param context   The current context. Used to inflate the layout file.
+     * @param locations A List of Location objects to display in a list
      */
 
     public LocationAdapter(Activity context, ArrayList<Location> locations) {

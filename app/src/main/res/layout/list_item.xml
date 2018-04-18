@@ -14,33 +14,33 @@
         <TextView
             android:id="@+id/location_name_text_view"
             style="@style/LocationName"
-            tools:text="Hungarian National Museum" />
+            tools:text="@string/museum_01_name" />
 
         <TextView
             android:id="@+id/location_description_text_view"
             style="@style/LocationDetails"
-            tools:text="The Hungarian National Museum collects, preserves and presents the historical relics of the Carpathian Basin and Hungary since 1802." />
+            tools:text="@string/museum_01_description" />
 
         <TextView
             android:id="@+id/opening_hours_text_view"
             style="@style/LocationDetails"
-            tools:text="10:00 - 18:00 closed on mondays"
             android:drawableLeft="@drawable/ic_hours"
-            android:gravity="center_vertical" />
+            android:gravity="center_vertical"
+            tools:text="@string/museum_01_hours" />
 
         <TextView
             android:id="@+id/address_text_view"
             style="@style/LocationDetails"
-            tools:text="Múzeum krt. 14-16, Budapest 1088"
             android:drawableLeft="@drawable/ic_place"
-            android:gravity="center_vertical"/>
+            android:gravity="center_vertical"
+            tools:text="@string/museum_01_address" />
 
         <TextView
             android:id="@+id/phone_text_view"
             style="@style/LocationDetails"
-            tools:text="+36 (1) 338 2122"
             android:drawableLeft="@drawable/ic_phone"
-            android:gravity="center_vertical"/>
+            android:gravity="center_vertical"
+            tools:text="@string/museum_01_phone" />
 
     </LinearLayout>
 

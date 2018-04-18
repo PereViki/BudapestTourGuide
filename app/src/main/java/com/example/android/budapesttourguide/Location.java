@@ -46,12 +46,11 @@ public class Location {
     private int mPronunciationResourceID;
 
     /**
-     *
-     * @param locationName Name of the location
-     * @param locationDescription Description of the location
-     * @param locationAddress Address of the location
-     * @param locationOpeningHours Opening hours of the location
-     * @param locationPhone Phone number of the location
+     * @param locationName            Name of the location
+     * @param locationDescription     Description of the location
+     * @param locationAddress         Address of the location
+     * @param locationOpeningHours    Opening hours of the location
+     * @param locationPhone           Phone number of the location
      * @param locationImageResourceId Resource ID of the image of the location
      */
     public Location(
@@ -72,10 +71,9 @@ public class Location {
     }
 
     /**
-     *
-     * @param locationName Name of the location
-     * @param locationDescription Description of the location
-     * @param locationAddress Address of the location
+     * @param locationName            Name of the location
+     * @param locationDescription     Description of the location
+     * @param locationAddress         Address of the location
      * @param locationImageResourceId Resource ID of the image of the location
      */
     public Location(

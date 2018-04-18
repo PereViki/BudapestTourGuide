@@ -15,4 +15,133 @@
     <!-- Category name for hotels [CHAR LIMIT=20] -->
     <string name="category_hotels">Hotels</string>
 
+    <string name="museum_01_name">Hungarian National Museum</string>
+    <string name="museum_02_name">Hungarian National Gallery</string>
+    <string name="museum_03_name">House of Terror Museum</string>
+    <string name="museum_04_name">Memento Park</string>
+    <string name="museum_05_name">Hall of Art, Budapest</string>
+    <string name="museum_06_name">Victor Vasarely Museum</string>
+
+    <string name="museum_01_description">The Hungarian National Museum collects, preserves and presents the historical relics of the Carpathian Basin and Hungary since 1802.</string>
+    <string name="museum_02_description">See the masters of Hungarian fine arts offering insights into the history of Hungary, every-day life and rural landscapes through beautiful paintings.</string>
+    <string name="museum_03_description">Exhibits related to the fascist and communist regimes in 20th-century Hungary and is also a memorial to the victims of these regimes.</string>
+    <string name="museum_04_description">An open-air museum in Budapest, Hungary, dedicated to monumental statues and sculpted plaques from Hungary\'s Communist period.</string>
+    <string name="museum_05_description">The Budapest Hall of Art or Palace of Art, (Hungarian − Műcsarnok Kunsthalle), is a contemporary art museum and a historic building located in Budapest, Hungary.</string>
+    <string name="museum_06_description">The material forming the core collection of the museum was donated by Victor Vasarely to the Hungarian State in the early eighties.</string>
+
+    <string name="museum_01_address">Múzeum krt. 14-16, Budapest 1088</string>
+    <string name="museum_02_address">Szent György tér 2, Budapest 1014 </string>
+    <string name="museum_03_address">Andrássy út 60, Budapest 1062</string>
+    <string name="museum_04_address">Balatoni road – Szabadkai street corner, Budapest 1223</string>
+    <string name="museum_05_address">Dózsa György út 37, Budapest 1146</string>
+    <string name="museum_06_address">Szentlélek tér 6, Budapest 1033</string>
+
+    <string name="museum_01_hours">10:00 - 18:00 closed on mondays</string>
+    <string name="museum_02_hours">10:00 - 18:00 closed on mondays</string>
+    <string name="museum_03_hours">10:00 - 18:00 closed on mondays</string>
+    <string name="museum_04_hours">from 10:00 till dusk</string>
+    <string name="museum_05_hours">10:00 - 18:00 closed on mondays</string>
+    <string name="museum_06_hours">10:00 - 18:00 closed on mondays</string>
+
+    <string name="museum_01_phone">+36 (1) 338 2122</string>
+    <string name="museum_02_phone">+36 (20) 439 7325</string>
+    <string name="museum_03_phone">+36 (1) 374 2600</string>
+    <string name="museum_04_phone">+36 (1) 424 7500</string>
+    <string name="museum_05_phone">+36 (1) 460 7000</string>
+    <string name="museum_06_phone">+36 (1) 388 7551</string>
+
+    <string name="sights_01_name">Buda Castle</string>
+    <string name="sights_02_name">Matthias Church</string>
+    <string name="sights_03_name">Hungarian Parliament Building</string>
+    <string name="sights_04_name">Gellért Hill</string>
+    <string name="sights_05_name">Chain Bridge</string>
+    <string name="sights_06_name">Margaret Island</string>
+
+    <string name="sights_01_description">Castle home of Hungarian art collection</string>
+    <string name="sights_02_description">Late Gothic Roman Cvatholic church</string>
+    <string name="sights_03_description">Gothic Revival-style government building</string>
+    <string name="sights_04_description">Mountain, monument, cave and church</string>
+    <string name="sights_05_description">Iconic 1800s stone suspension bridge</string>
+    <string name="sights_06_description">Parkland and Dominican convent ruins</string>
+
+    <string name="sights_01_address">Budapest, Szent György tér 2, 1014</string>
+    <string name="sights_02_address">Budapest, Szentháromság tér 2, 1014</string>
+    <string name="sights_03_address">Budapest, Kossuth Lajos tér 1-3, 1055</string>
+    <string name="sights_04_address">Gellért Hill, Budapest, 1016</string>
+    <string name="sights_05_address">Budapest, Széchenyi Lánchíd, 1051</string>
+    <string name="sights_06_address">Margaret Island, Budapest, 1138</string>
+
+    <string name="food_01_name">Alabárdos Restaurant</string>
+    <string name="food_02_name">Arany Kaviár</string>
+    <string name="food_03_name">Csalogány 26</string>
+    <string name="food_04_name">Menza Restaurant</string>
+    <string name="food_05_name">Bottega Di Brontolo</string>
+    <string name="food_06_name">Remíz Cafe &amp; Brasserie</string>
+    <string name="food_07_name">Zeller Bistro</string>
+    <string name="food_08_name">Baraka</string>
+
+    <string name="food_01_description">Hungarian cuisine within medieval setting in a 400 year-old Gothic building. Great food, live classical music, candle light, fine porcelain and decor make Alabárdos a perfect place for a romantic dinner.</string>
+    <string name="food_02_description">Arany Kaviár is an elegant restaurant with Russian Cuisine in Buda Castle. Beautiful decor, friendly service, fine food and drinks are what you’ll experience in this place.</string>
+    <string name="food_03_description">Csalogány 26 is most often mentioned among the best-value restaurants in Budapest. The small place boasts creative cuisine with some Hungarian dishes with modern twist.</string>
+    <string name="food_04_description">A retro-style place evoking the ambience of the ’80es and ’90es in Budapest. Traditional local dishes dominate the menu.</string>
+    <string name="food_05_description">You can enjoy simple but flavourful Itaian dishes in the grumpy chef’s restaurant (brontolo menas grumpy) right next to Vörösmarty tér.</string>
+    <string name="food_06_description">A fashionable dining spot among politicians and celebrities far away from the noisy city center. It is a large restaurant with at least five rooms and a spacious terrace.</string>
+    <string name="food_07_description">You\'ll receive a very warm welcome at this lovely candlelit cellar where the attentive staff serve food sourced largely from the owner\'s family and friends in the Lake Balaton area.</string>
+    <string name="food_08_description">You\'re ushered into the monochrome dining room, where chef André Bicalho works his magic in the half-open kitchen. Seafood features heavily, with French, Asian and Hungarian elements to the beautifully presented dishes.</string>
+
+    <string name="food_01_address">Országház u. 2, Budapest 1014</string>
+    <string name="food_02_address">Ostrom u. 19, Budapest 1015</string>
+    <string name="food_03_address">Csalogány u. 26, Budapest 1015</string>
+    <string name="food_04_address">Liszt Ferenc tér 2, Budapest 1061</string>
+    <string name="food_05_address">Wekerle Sándor utca 5, Budapest 1051</string>
+    <string name="food_06_address">Budakeszi út 5, Budapest 1021</string>
+    <string name="food_07_address">Hercegprímás u. 18, Budapest 1051</string>
+    <string name="food_08_address">Dorottya utca 6, Budaoest 1051</string>
+
+    <string name="food_01_hours">Mon-Fri: 19:00-23:00 Sat: 12:00-15:00 and 19:00-23:00</string>
+    <string name="food_02_hours">Tue-Sun 12:00-14:30 &amp; 18:00-22:30</string>
+    <string name="food_03_hours">Tue-Sat 12:00-15:00 &amp; 19:00-22:00</string>
+    <string name="food_04_hours">10:00-24:00</string>
+    <string name="food_05_hours">Mon-Sun: 11.30-22.30</string>
+    <string name="food_06_hours">12:00-23:00</string>
+    <string name="food_07_hours">Mon 18:00 - 24:00 Tue-Sun 12:00 - 24:00</string>
+    <string name="food_08_hours">Mon-Sat 18:00-23.00</string>
+
+    <string name="food_01_phone">+36 (1) 356 0851</string>
+    <string name="food_02_phone">+36 (1) 201 67 37</string>
+    <string name="food_03_phone">+36 (1) 201 7892</string>
+    <string name="food_04_phone">+36 (1) 413 1482</string>
+    <string name="food_05_phone">+36 (70) 611 4970</string>
+    <string name="food_06_phone">+36 (1) 394 1896</string>
+    <string name="food_07_phone">+36 (30) 651 0880</string>
+    <string name="food_08_phone">+36 (1) 200 0817</string>
+
+    <string name="hotel_01_name">Aquaworld Resort Budapest</string>
+    <string name="hotel_02_name">The Aquincum Hotel Budapest</string>
+    <string name="hotel_03_name">Danubius Hotel Helia</string>
+    <string name="hotel_04_name">Queen\'s Court Hotel &amp; Residence</string>
+    <string name="hotel_05_name">ARCadia Hotel Budapest</string>
+    <string name="hotel_06_name">Corinthia Hotel Budapest</string>
+
+    <string name="hotel_01_description">4-star superior hotel and Aqua Park located in Budapest, 11 km from Heroes\' Square and 15 km from the Budapest Zoo and Botanical Garden.</string>
+    <string name="hotel_02_description">Overlooking the Danube River, this refined, contemporary spa hotel is a 4-minute walk from the Szentlélek tér subway station and 8 km from Buda Castle. </string>
+    <string name="hotel_03_description">Overlooking the Danube river, this upscale hotel is a 10-minute walk from a metro station and 2 km from the Hungarian Parliament Building. </string>
+    <string name="hotel_04_description">Set in Budapest\'s city center, this upscale all-suites hotel in a simple building with red brick accents is 300 m from a tram stop and 1 km from neo-Renaissance Magyar Állami Operaház.</string>
+    <string name="hotel_05_description">Situated directly in the neighborhood of the Synagogue and the Deák Ferenc square, within 2 minutes’ walk from the Andrassy Avenue and the Basilica; 5 minutes’ walk from the Váci pedestrian street and the Danube Promenade.</string>
+    <string name="hotel_06_description">In a landmark 1896 building, this palatial hotel is a 5-minute walk from a metro station, an 8-minute walk from the shops of Andrássy Avenue and 2 km from the Chain Bridge. </string>
+
+    <string name="hotel_01_address">Íves út 16, Budapest 1044</string>
+    <string name="hotel_02_address">Árpád fejedelem útja 94, Budapest 1036</string>
+    <string name="hotel_03_address">Kárpát u. 62-64, Budapest 1133</string>
+    <string name="hotel_04_address">Dob u. 63, Budapest 1074</string>
+    <string name="hotel_05_address">Madách Imre út 3, Budapest 1075</string>
+    <string name="hotel_06_address">Erzsébet krt. 43-49, Budapest 1073</string>
+
+    <string name="hotel_01_phone">+36 (1) 231 3600</string>
+    <string name="hotel_02_phone">+36 (1) 436 4100</string>
+    <string name="hotel_03_phone">+36 (1) 889 5800</string>
+    <string name="hotel_04_phone">+36 (1) 882 3000</string>
+    <string name="hotel_05_phone">+36 (1) 796 2070</string>
+    <string name="hotel_06_phone">+36 (1) 479 4000</string>
+
 </resources>
